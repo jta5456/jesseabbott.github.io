@@ -11,3 +11,6 @@ Welcome to my personal portfolio. I am passionate about building software and le
 ### 📬 Connect with me
 * [GitHub](https://github.com/jta5456)
 * [LinkedIn](#) *(You can add your link here later)*
+
+### 🧠 Knowledge Base
+* [Check out My Bookshelf](/bookshelf/)
